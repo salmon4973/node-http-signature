@@ -1,0 +1,18 @@
+-----BEGIN BITCOIN SIGNED MESSAGE-----
+# This list includes all historical versions. Use only the most recent (bottom of list).
+#
+# SHA256                                                          Filename         Date Published
+9abad5600b96e3d99da6965c8568e54508e9a3bb474f32b2f8e108012b2ca8ff  keygen.html      2014-11-16T19:05:14
+67e5a06911498ee3edccbe0be649f2dcbdfc64183517d3f30e56feb97570777a  olsign.html      2014-11-16T19:05:14
+acfcd6341f36078a3a10590324741a484bb9f74fea8c446638a795ab74f032b9  keygen.html      2015-04-16T15:54:44
+ed06bc2b7326fe50ec7e0bea1937de156fddcb128f36d9a96715ad373a944e6e  olsign.html      2015-04-16T15:54:44
+acfcd6341f36078a3a10590324741a484bb9f74fea8c446638a795ab74f032b9  keygen.html      2015-04-20T14:04:56
+ed06bc2b7326fe50ec7e0bea1937de156fddcb128f36d9a96715ad373a944e6e  olsign.html      2015-04-20T14:04:56
+ab701729fc4839c68955278e635e543304ec7159a92a12fada2f7c7aacd10fac  keygen.html      2015-06-25T18:18:02
+ab414f0618875b7cd8de30c56998479445acb567ee13c4e759925e5651bcdd66  olsign.html      2015-06-25T18:18:02
+acfcd6341f36078a3a10590324741a484bb9f74fea8c446638a795ab74f032b9  keygen.html      2015-06-25T18:22:36
+ed06bc2b7326fe50ec7e0bea1937de156fddcb128f36d9a96715ad373a944e6e  olsign.html      2015-06-25T18:22:36
+-----BEGIN SIGNATURE-----
+1GPWzXfpN9ht3g7KsSu8eTB92Na5Wpmu7g
+IE29MvyVTLb80hSxki/yfMvrT9a3Yk6MUTRSoz8DmMjVp4hJVhcwqB0D5k7Hr3ZTKL1fg1xFg4dsk1zZAdVKTo0=
+-----END BITCOIN SIGNED MESSAGE-----
